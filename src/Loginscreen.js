@@ -85,8 +85,8 @@ class Loginscreen extends Component
         <div>
           {this.state.loginmessage}
           {this.state.loginButtons}
-        <div/>
-      <div/>
+        </div>
+      </div>
     );
   }
 
